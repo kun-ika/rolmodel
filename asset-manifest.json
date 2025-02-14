@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rolmodel-nam/static/css/main.9fe40f7c.css",
+    "main.js": "/rolmodel-nam/static/js/main.9f0e0741.js",
+    "static/js/453.2e7a178c.chunk.js": "/rolmodel-nam/static/js/453.2e7a178c.chunk.js",
+    "index.html": "/rolmodel-nam/index.html",
+    "main.9fe40f7c.css.map": "/rolmodel-nam/static/css/main.9fe40f7c.css.map",
+    "main.9f0e0741.js.map": "/rolmodel-nam/static/js/main.9f0e0741.js.map",
+    "453.2e7a178c.chunk.js.map": "/rolmodel-nam/static/js/453.2e7a178c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe40f7c.css",
+    "static/js/main.9f0e0741.js"
+  ]
+}
